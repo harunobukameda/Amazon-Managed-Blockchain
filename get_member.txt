@@ -1,0 +1,3 @@
+aws managedblockchain get-member \
+--network-id n-MWY63ZJZU5HGNCMBQER7IN6OIU \
+--member-id m-K46ICRRXJRCGRNNS4ES4XUUS5A
